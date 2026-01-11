@@ -70,11 +70,13 @@ I am a passionate **DevSecOps & Cloud Engineer** based in **Madurai, India**. I 
 
 ### 📈 **GitHub Analytics**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivekjs3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vivekjs3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Github Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekjs3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
-![Streak Stats](https://streak-stats.demolab.com?user=vivekjs3&theme=tokyonight&hide_border=true&background=0d1117)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekjs3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</p>
 
 ---
 
